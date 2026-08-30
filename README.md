@@ -1,11 +1,11 @@
 # yaclog-ksp
 
-[![CI Status](https://git.offworldcolonies.nexus/drewcassidy/yaclog-ksp/badges/workflows/build.yml/badge.svg?branch=main&label=build)](https://git.offworldcolonies.nexus/drewcassidy/yaclog-ksp/actions)
+[![CI Status](https://git.offworld.city/drewcassidy/yaclog-ksp/badges/workflows/build.yml/badge.svg?branch=main&label=build)](https://git.offworld.city/drewcassidy/yaclog-ksp/actions)
 [![PyPI version](https://img.shields.io/pypi/v/yaclog-ksp)](https://pypi.org/project/yaclog-ksp/)
 
 A command line tool based on [yaclog] for converting markdown changelogs to [KerbalChangelog] config files.
 
-![a yak who is a log](https://git.offworldcolonies.nexus/drewcassidy/yaclog/raw/branch/main/logo.png)
+![a yak who is a log](https://git.offworld.city/drewcassidy/yaclog/raw/branch/main/logo.png)
 
 *Logo by Erin Cassidy*
 
@@ -95,5 +95,5 @@ but this paragraph works pretty well to get the point across!
 
 ```
 
-[yaclog]: https://git.offworldcolonies.nexus/drewcassidy/yaclog
+[yaclog]: https://git.offworld.city/drewcassidy/yaclog
 [KerbalChangelog]: https://github.com/HebaruSan/KerbalChangelog

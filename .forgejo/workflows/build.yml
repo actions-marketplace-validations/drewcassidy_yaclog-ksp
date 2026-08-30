@@ -47,7 +47,7 @@ jobs:
 
       - name: Get Changelog Information
         id: yaclog-show
-        uses: https://git.offworldcolonies.nexus/drewcassidy/yaclog@1.6.2
+        uses: https://git.offworld.city/drewcassidy/yaclog@1.6.2
 
       - name: Build
         run: uv build

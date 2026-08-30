@@ -37,8 +37,8 @@ dynamic = ["version"]
 yaclog-ksp = "yaclog_ksp.__main__:main"
 
 [project.urls]
-Source = "https://git.offworldcolonies.nexus/drewcassidy/yaclog-ksp"
-Changelog = "https://git.offworldcolonies.nexus/drewcassidy/yaclog-ksp/src/branch/main/CHANGELOG.md"
+Source = "https://git.offworld.city/drewcassidy/yaclog-ksp"
+Changelog = "https://git.offworld.city/drewcassidy/yaclog-ksp/src/branch/main/CHANGELOG.md"
 "Forum Post" = "https://forum.kerbalspaceprogram.com/index.php?/topic/201784-*"
 
 [tool.setuptools_scm]
@@ -52,5 +52,5 @@ cache-keys = [{ file = "pyproject.toml" }, { git = { commit = true } }]
 
 [[tool.uv.index]]
 name = "offworldcolonies-drewcassidy"
-url = "https://git.offworldcolonies.nexus/api/packages/drewcassidy/pypi/simple/"
+url = "https://git.offworld.city/api/packages/drewcassidy/pypi/simple/"
 # not strictly necessary, all packages here also exist on PyPI
